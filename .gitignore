@@ -1,0 +1,13 @@
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+/Debug/
+/Release/
+/build/
+/bin/
+/obj/
+.vscode/
+.DS_Store
